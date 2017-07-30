@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <SIARHEI.COUNTRIES
+            COUNTRY_ID="DE"
+            COUNTRY_NAME="Germany"/>
+    <SIARHEI.COUNTRIES
+            COUNTRY_ID="US"
+            COUNTRY_NAME="United States of America"/>
+
+
+    <SIARHEI.LOCATIONS
+            LOCATION_ID_PK="1"
+            LOCATION_ADRESS="Schwanthalerstr. 7031"
+            LOCATION_CITY="Berlin"
+            LOCATION_POST_CODE="53345"
+            LOCATIONS_COUNTRY_ID_FK="DE"/>
+    <SIARHEI.LOCATIONS
+            LOCATION_ID_PK="2"
+            LOCATION_ADRESS="2014 Jabberwocky Rd"
+            LOCATION_CITY="Southlake"
+            LOCATION_POST_CODE="34234"
+            LOCATIONS_COUNTRY_ID_FK="US"/>
+    <SIARHEI.LOCATIONS
+            LOCATION_ID_PK="3"
+            LOCATION_ADRESS="2011 Interiors Blvd"
+            LOCATION_CITY="South San Francisco"
+            LOCATION_POST_CODE="34234"
+            LOCATIONS_COUNTRY_ID_FK="US"/>
+
+
+
+    <SIARHEI.APARTMENTS
+            APARTMENT_NAME="Kill Devil Hills"
+            APARTMENT_SLEEPING_PLACES="5"
+            APARTMENT_PRICE_PER_NIGTH="123"
+            APARTMENT_LOCATION_ID="1"/>
+    <SIARHEI.APARTMENTS
+            APARTMENT_NAME="Blanchard"
+            APARTMENT_SLEEPING_PLACES="3"
+            APARTMENT_PRICE_PER_NIGTH="67"
+            APARTMENT_LOCATION_ID="2"/>
+    <SIARHEI.APARTMENTS
+            APARTMENT_NAME="Sugar Land"
+            APARTMENT_SLEEPING_PLACES="2"
+            APARTMENT_PRICE_PER_NIGTH="67"
+            APARTMENT_LOCATION_ID="3"/>
+
+
+
+</dataset>

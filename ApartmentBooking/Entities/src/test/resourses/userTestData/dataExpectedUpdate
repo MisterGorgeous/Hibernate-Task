@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <SIARHEI.USERS
+            USER_FIRST_NAME="John"
+            USER_LAST_NAME="Smith"
+            USER_PASSWORD="DAUSTIN"
+            USER_EMAIL="serega_2401@tut.by"
+            USER_BIRTHDAY='2011-01-01'/>
+    <SIARHEI.USERS
+            USER_FIRST_NAME="Jose Manuel"
+            USER_LAST_NAME="Urman"
+            USER_PASSWORD="JMURMAN"
+            USER_EMAIL="serega_2401@tut.by"
+            USER_BIRTHDAY='2011-01-01'/>
+    <SIARHEI.USERS
+            USER_FIRST_NAME="Diana"
+            USER_LAST_NAME="Lorentz"
+            USER_PASSWORD="DLORENTZ"
+            USER_EMAIL="serega_2401@tut.by"
+            USER_BIRTHDAY='2011-01-01'/>
+
+
+
+</dataset>

@@ -1,0 +1,4 @@
+schemaUrl=jdbc:oracle:thin:@localhost:1521:orcl
+testUsername=C##TESTDB
+testUserPassword=password
+driverClass=oracle.jdbc.OracleDriver
